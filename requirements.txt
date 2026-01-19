@@ -1,0 +1,10 @@
+pandas
+openpyxl
+google-generativeai
+transformers
+torch
+accelerate
+bitsandbytes
+python-dotenv
+scipy
+tqdm
